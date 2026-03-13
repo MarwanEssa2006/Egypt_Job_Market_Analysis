@@ -34,10 +34,12 @@ The analysis answers 10 key questions:
 ## 📸 Dashboard Preview
 
 ### Tab 1 — Data Jobs Overview
-![Dashboard Tab 1](assets/linkedin_tab1.png)
+
+<img width="1200" height="900" alt="wuzzuf_dashboard_tab1" src="https://github.com/user-attachments/assets/e278acc6-2336-47c7-bfd6-ad5b0808064c" />
+
 
 ### Tab 2 — Data vs General Market
-![Dashboard Tab 2](assets/linkedin_tab2.png)
+<img width="1200" height="900" alt="wuzzuf_dashboard_tab2" src="https://github.com/user-attachments/assets/99a1d4a7-202c-4844-82d5-46b1e5200010" />
 
 ---
 
